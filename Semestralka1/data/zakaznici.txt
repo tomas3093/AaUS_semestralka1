@@ -1,0 +1,11 @@
+5
+zakaznik
+1
+zakaznik0
+5
+zakaznik1
+5
+zakaznik2
+3
+zakaznik4
+8
